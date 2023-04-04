@@ -17,13 +17,13 @@ This project is created with:
 
 ## Setup
 To run this project, install it locally using [NPM](https://www.npmjs.com/):
-For back-end
+#### For back-end
 ```
 $ cd backend/
 $ npm install
 $ npm run:start
 ```
-For front-end
+#### For front-end
 ```
 $ cd frontend/
 $ npm install
